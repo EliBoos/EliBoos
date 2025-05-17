@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou a Eli Boos!
 
-<!--
-**EliBoos/EliBoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu GitHub!  
+Aqui compartilho minha jornada de transição de carreira, estudos e projetos nas áreas de *programação, **UX/UI Design* e *personalização criativa*.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Criadora da Eli Boos Papelaria Personalizada*
+- Apaixonada por design, organização e experiências visuais encantadoras
+- Estudando *Front-End* (HTML, CSS e JavaScript)
+- Aprendendo sobre *UX/UI Design* com foco em projetos práticos
+- Mãe, empreendedora e futura dev com muito orgulho!
+
+## Tecnologias e ferramentas que estou aprendendo
+
+- HTML & CSS  
+- JavaScript  
+- Figma (protótipos e interfaces)  
+- Git & GitHub  
+- Canva (design criativo)  
+- VS Code  
+
+## Projetos em andamento
+
+- [ ] Protótipo de catálogo interativo da minha papelaria  
+- [ ] Meu primeiro site responsivo  
+- [ ] Aplicação de boas práticas de UX/UI no dia a dia
+
+Obrigada por visitar! Cada repositório aqui é uma sementinha plantada com carinho e aprendizado.
