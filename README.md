@@ -5,7 +5,7 @@ Aqui compartilho minha jornada de transição de carreira, estudos e projetos na
 
 ## Sobre mim
 
-- *Criadora da Eli Boos Papelaria Personalizada*
+- *Criadora da Elah Studio *
 - Apaixonada por design, organização e experiências visuais encantadoras
 - Estudando *Front-End* (HTML, CSS e JavaScript)
 - Aprendendo sobre *UX/UI Design* com foco em projetos práticos
